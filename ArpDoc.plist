@@ -15,15 +15,15 @@
 				</dict>
 			</array>
 			<key>metadata</key>
-			<dict>
+		<dict>
 				<key>bundle-identifier</key>
-				<string>ARCDocument</string>
+				<string>csnet.ARCDocument</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>移动公文V2.0</string>
+				<string>公文管理V2</string>
 			</dict>
 		</dict>
 	</array>
