@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>csnet.ARCDocument</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>1.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>公文管理 V1.1</string>
+				<string>公文管理 V1.2</string>
 			</dict>
 		</dict>
 	</array>
