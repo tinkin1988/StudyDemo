@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://115.47.12.175:8084/FengNiaoDataService/ipa/wifiunion.ipa</string>
+					<string>http://testfile.wifiu.cc/wifiunion.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
