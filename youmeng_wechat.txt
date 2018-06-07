@@ -1,7 +1,7 @@
 {
 	"wechat_paltform_code":"关注公众号|apple19220235;apple19220236;apple19220237;apple19220238;apple19220239",
 	"wechat_person_code":"添加微信|apple19220245;apple19220246;apple19220247;apple19220248;apple19220249",
-	"wifi_banner":"true|应国家公安部要求，家庭及企/事业单位WiFi数据不对外共享",
+	"wifi_banner":"true|应国家公安部要求，家庭及企/事业单位内部WiFi数据不对外共享",
 	"download_url":"http://down2.uc.cn/wandj/down.php?id=211&pub=lequwuxian23_ad",
 	"show_discover":"true",
 	"download_url_new":"http://down2.uc.cn/wandj/down.php?id=211&pub=lequwuxian23_ad|豌豆荚",
