@@ -1,6 +1,6 @@
 {
-	"wechat_paltform_code":"关注微信公众号【WiFi淘钱豹资讯】|itaoqianbao",
-	"wechat_person_code":"",
+	"wechat_paltform_code":"",
+	"wechat_person_code":"添加微信好友|18790095795",
 	"wifi_banner":"true|应国家公安部和工信部要求，家庭及企/事业单位内部WiFi数据不对外共享!",
 	"download_url":"http://down2.uc.cn/wandj/down.php?id=211&pub=lequwuxian23_ad",
 	"show_discover":"true",
