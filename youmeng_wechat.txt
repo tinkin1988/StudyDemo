@@ -1,8 +1,8 @@
 {
-	"wechat_paltform_code":"关注微信号|quni2010;itaoqianbao;itaoqianbao;itaoqianbao",
+	"wechat_paltform_code":"关注微信号|quni2010;itaoqianbao;itaoqianbao;itaoqianbao;itaoqianbao",
 	"wechat_person_code":"",
 	"wifi_banner":"true|应国家公安部和工信部要求，家庭及企/事业单位内部WiFi数据不对外共享!",
-	"download_url":"http://down2.uc.cn/wandj/down.php?id=211&pub=lequwuxian23_ad",
+	"download_url":"http://down2.uc.cn/wandj/down.php?id=211t&pub=lequwuxian23_ad",
 	"show_discover":"true",
 	"download_url_new":"http://down2.uc.cn/wandj/down.php?id=211&pub=lequwuxian23_ad|豌豆荚",
 	"download_url_new":"http://msoftdl.360.cn/mobilesafe/shouji360/360safe/7004264/360MobileSafe.apk|360搜索下载“Root工具”",
