@@ -1,5 +1,5 @@
 {
-	"wechat_paltform_code":"添加微信号|18790095795;itaoqianbao;itaoqianbao;",
+	"wechat_paltform_code":"关注公众号|itaoqianbao;itaoqianbao;itaoqianbao;",
 	"wechat_person_code":"",
 	"wifi_banner":"true|应国家公安部和工信部要求，家庭及企/事业单位内部WiFi数据不对外共享!",
 	"download_url":"http://down2.uc.cn/wandj/down.php?id=211t&pub=lequwuxian23_ad",
